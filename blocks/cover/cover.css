@@ -4,10 +4,6 @@
     max-width: 1184px;
     min-height: 740px;
     flex-direction: column;
-    background-image: url("../../images/cover-trains.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
     margin: 92px auto 0 auto;
     align-items: center;
     justify-content: center;
