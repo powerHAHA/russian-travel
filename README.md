@@ -7,5 +7,5 @@
 -относительные единицы
 - БЭМ
 
-Сcылка на проект: https://github.com/powerHAHA/russian-travel
+Сcылка на проект: https://powerhaha.github.io/russian-travel/
 
